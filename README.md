@@ -1,5 +1,7 @@
 # GithubApp
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c7ea5da3-f5e4-4f33-aa9b-1e3b9696d6e9/deploy-status)](https://app.netlify.com/sites/kind-hodgkin-85b644/deploys)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.8.
 
 ## Development server
